@@ -155,12 +155,17 @@ Currently working at **Emizen Tech Pvt. Limited**, developing full-stack applica
 - 🚀 Continuously improving problem-solving and algorithmic thinking.
 
 
+---
+
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayGoyal001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    width="70%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AjayGoyal001&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
-
 
 ---
 
