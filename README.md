@@ -154,20 +154,6 @@ Currently working at **Emizen Tech Pvt. Limited**, developing full-stack applica
 - 🧩 Practicing Data Structures and Algorithms.
 - 🚀 Continuously improving problem-solving and algorithmic thinking.
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="./profile/stats.svg" alt="Ajay's GitHub Statistics" />
-  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayGoyal001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📈 Contribution Activity
 
