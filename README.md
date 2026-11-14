@@ -159,8 +159,8 @@ Currently working at **Emizen Tech Pvt. Limited**, developing full-stack applica
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AjayGoyal001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ajay's GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayGoyal001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="./profile/stats.svg" alt="Ajay's GitHub Statistics" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -172,8 +172,9 @@ Currently working at **Emizen Tech Pvt. Limited**, developing full-stack applica
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjayGoyal001&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayGoyal001&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
